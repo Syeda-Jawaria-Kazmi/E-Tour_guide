@@ -1,4 +1,4 @@
-# 🗺️ E-Tour Guide Project
+# E-Tour Guide Project
 
 **E Tour Guide** is a sophisticated C++ console-based application designed to serve as a comprehensive travel companion for tourists exploring Pakistan. The system integrates multiple travel-related functionalities including route planning, transportation booking, hotel reservations, and travel record management. Built with object-oriented principles and advanced data structures, it provides users with an intuitive platform to plan and manage their entire travel itinerary across major Pakistani cities.
 
@@ -6,36 +6,36 @@ The application features a dual-mode transportation system (road and air travel)
 
 ---
 
-## 📋 Summary
+## Summary
 
 This project implements a robust travel management system that enables users to:
-* 👤 Create personalized travel profiles with medical and location information
-* 🚗 Plan multi-city trips with mixed transportation modes (car and plane)
-* ✈️ Book flight tickets with different class options
-* 🏨 Reserve hotels for specified durations
-* 📍 Track travel history and current location
-* 💰 Calculate comprehensive trip costs and time estimates
+* Create personalized travel profiles with medical and location information
+* Plan multi-city trips with mixed transportation modes (car and plane)
+* Book flight tickets with different class options
+* Reserve hotels for specified durations
+* Track travel history and current location
+* Calculate comprehensive trip costs and time estimates
 
 The system maintains persistent data storage for user profiles, travel records, trip details, and flight tickets. It features a color-coded console interface for enhanced user experience and implements sophisticated graph algorithms for optimal route finding between cities.
 
 ---
 
-## 🏆 Key Technical Achievements
+## Key Technical Achievements
 
-* 🕸️ Implementation of graph-based route finding algorithms
-* 🚘 Multi-modal transportation planning
-* 💾 Complex data persistence management
-* 🛡️ Comprehensive error handling and input validation
-* ⏱️ Real-time cost and time calculations
+* Implementation of graph-based route finding algorithms
+* Multi-modal transportation planning
+* Complex data persistence management
+* Comprehensive error handling and input validation
+* Real-time cost and time calculations
 
 ---
 
-## ✨ Features
+## Features
 
-### 👤 User Registration & Authentication
-* 🔒 **Secure Signup:** Username availability checking
-* 📄 **Comprehensive Profiles:** Creation with personal details and medical information
-* 🪪 **Identity Validation:** CNIC/Passport validation with format checking
+### User Registration & Authentication
+* **Secure Signup:** Username availability checking
+* **Comprehensive Profiles:** Creation with personal details and medical information
+* **Identity Validation:** CNIC/Passport validation with format checking
 * ✉️ **Verification:** Email validation and age verification
 * 📍 **Location:** Current location tracking and updates
 
